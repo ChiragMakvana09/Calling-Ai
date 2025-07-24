@@ -42,19 +42,19 @@ A powerful AI-driven calling bot using **Twilio**, **Whisper ASR**, **Mistral-7B
 
 ## 🧩 How It Works
 
-Caller dials in 🔔
-     ↓
-Bot greets in Hindi 🤖
-     ↓
-Asks for a 6-digit society/customer code 🔢
-     ↓
-Fetches AMC/bill info from companies.json 📄
-     ↓
-Generates reply via GPT or Mistral 🧠
-     ↓
-Speaks Hindi reply via TTS 🔊
-     ↓
-Call ends or further action (optional) 🔁
+-Caller dials in 🔔
+-     ↓
+-Bot greets in Hindi 🤖
+-     ↓
+-Asks for a 6-digit society/customer code 🔢
+-     ↓
+-Fetches AMC/bill info from companies.json 📄
+-     ↓
+-Generates reply via GPT or Mistral 🧠
+-     ↓
+-Speaks Hindi reply via TTS 🔊
+-     ↓
+-Call ends or further action (optional) 🔁
 
 ---
 
